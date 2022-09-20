@@ -1,3 +1,3 @@
 <h1>
-Script made in python2 com base no livro "python  para pentest" do autor Daniel Moreno.
+  Script made in python2 based on the book "python for pentest" by author Daniel Moreno.
 </h1>
